@@ -1,4 +1,8 @@
-
+/*
+Erik Paperniuk
+  s1123540
+  28.11.2024
+*/
 #include <bits/stdc++.h>
 using namespace std;
 
