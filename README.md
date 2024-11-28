@@ -1,3 +1,8 @@
+##HW2 Data Structures
+
+##s1123540 Erik Paperniuk
+
+
 Question 1: Binary Tree - Find the Diameter of a Binary Tree
 Problem Statement:
 Write a program to calculate the diameter of a binary tree. The diameter of a binary tree is the length of the longest path between any two nodes in the tree. The path may or may not pass through the root.
